@@ -1,1 +1,1 @@
-# python-go-it-marafon
+# python-marafons
